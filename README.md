@@ -1,6 +1,6 @@
 # Gaia Temple
 
-*A nonprofit spiritual and educational organization supporting regenerative culture and community.*
+*A 508c1a spiritual and educational organization supporting regenerative culture and community.*
 
 ---
 
